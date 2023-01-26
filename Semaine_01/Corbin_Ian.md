@@ -7,9 +7,8 @@ Corbin, Ian
 ![IMG_0718](https://user-images.githubusercontent.com/106936139/214934249-c5d54800-c840-4448-9242-37deae19b06a.JPG)
 ![IMG_0721](https://user-images.githubusercontent.com/106936139/214934250-13552460-4059-497e-8bf5-98f624b78581.JPG)
 ![BFFE81FB-9B20-458A-AF2A-02912D391585](https://user-images.githubusercontent.com/106936139/214934251-f249e4eb-61ed-423b-891d-74d29ae76eb8.jpg)
-![IMG_0497](https://user-images.githubusercontent.com/106936139/214934252-e4f8d252-a40f-4b55-a408-f148da55675e.jpeg)
 
-Mes intérets dans le domaine du multimédia
+**Mes intérets dans le domaine du multimédia**
 Je viens découvrir tous les aspects du multimédia, mais je suis surtout ici pour le montage vidéo, le jeux vidéo et la réalité virtuel.
 
 Mes passions

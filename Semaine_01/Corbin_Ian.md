@@ -5,6 +5,7 @@
 ![photo de moi](https://user-images.githubusercontent.com/106936139/214934246-fba9b234-f539-496c-b413-04fddda7aa5f.JPG)
 ![photo de moi](https://user-images.githubusercontent.com/106936139/214934249-c5d54800-c840-4448-9242-37deae19b06a.JPG)
 ![photo de moi](https://user-images.githubusercontent.com/106936139/214934250-13552460-4059-497e-8bf5-98f624b78581.JPG)
+![photo de moi](https://user-images.githubusercontent.com/106936139/214937187-16f6c3c9-d115-4b8b-a75d-46d356ec0958.jpeg)
 
 
 ## **Mes intérets dans le domaine du multimédia**

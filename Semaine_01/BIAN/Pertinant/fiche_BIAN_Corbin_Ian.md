@@ -29,7 +29,7 @@
 **1 projecteur, 4 Stereo**
 
 # Éléments nécessaires à la mise en exposition: 
-**Piece spatieuse, cable, mur blanc**
+**Piece spatieuse, cable, mur blanc, electricite, WiFi**
 
 # Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications):
  **Jaime la facon dont ils ont installe et montre**

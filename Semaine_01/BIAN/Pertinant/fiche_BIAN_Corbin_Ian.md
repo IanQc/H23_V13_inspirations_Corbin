@@ -3,10 +3,10 @@
 # Lieux
 **Arsenal, 2020 Rue William, Montréal, QC H3J 1R8**
 
-# Exposition interieur
-
-# 2 Fevrier 2023
-
+# Type dexposition
+**Exposition interieur**
+# Date de la visite
+**2 Fevrier 2023**
 # Les Jardins Cybernetiques
 
 # Artiste: Donatien Aubert

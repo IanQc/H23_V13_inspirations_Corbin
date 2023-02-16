@@ -36,3 +36,5 @@
 
 
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+
+<img src"https://cdn.shopify.com/s/files/1/0036/4806/1509/products/a26bdd4625c1f9591c7e9d754dfe7f8764c2d87f_square2978108_1_ad1802ad-e3d0-47db-862b-70c535250100_1000x.jpg?v=1675874467">

@@ -4,7 +4,7 @@
 **Arsenal, 2020 Rue William, Montréal, QC H3J 1R8**
 
 # Type dexposition
-**Exposition interieur**
+**Exposition interieur et temporaire**
 # Date de la visite
 **2 Fevrier 2023**
 # Nom de loeuvre

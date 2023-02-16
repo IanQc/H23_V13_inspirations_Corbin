@@ -1,28 +1,28 @@
 # LA 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN)
 
-2020 Rue William, Montréal, QC H3J 1R8
+# 2020 Rue William, Montréal, QC H3J 1R8
 
-Exposition interieur
+# Exposition interieur
 
-2 Fevrier 2023
+# 2 Fevrier 2023
 
-Les Jardins Cybernetiques
+# Les Jardins Cybernetiques
 
-Artiste: Donatien Aubert
+# Artiste: Donatien Aubert
 
-Annee de realisation: 2020
+# Annee de realisation: 2020
 
-Description de loeuvre: a
+# Description de loeuvre: a
 
-Type installation
+# Type installation
 
-Faire un croquis de la mise en espace
+# Faire un croquis de la mise en espace
 
-Composantes techniques: 1 projecteur, 4 Stereo
+# Composantes techniques: 1 projecteur, 4 Stereo
 
-Éléments nécessaires à la mise en exposition: Piece spatieuse, cable, mur blanc
+# Éléments nécessaires à la mise en exposition: Piece spatieuse, cable, mur blanc
 
-Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications): Jaime la facon dont ils ont installe et montre
+# Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications): Jaime la facon dont ils ont installe et montre
 
 
-Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+# Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications

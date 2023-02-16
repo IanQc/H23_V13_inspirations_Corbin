@@ -11,7 +11,7 @@
 **Les Jardins Cybernetiques**
 
 # Artiste:
-** Donatien Aubert**
+**Donatien Aubert**
 # Annee de realisation:
 **2020**
 

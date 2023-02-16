@@ -12,18 +12,22 @@
 
 # Artiste:
 **Donatien Aubert**
+
 # Annee de realisation:
 **2020**
 
 # Description de loeuvre:
 **description**
+
 # Type installation
 **type installation**
 
 # Faire un croquis de la mise en espace
+**Loeuvre a une piece a elle seul; elle contient 1 stereo dans chaque coin de la piece ainsi qu un projecteur qui projete sur le mur blanc oppose au projecteur**
 
 # Composantes techniques:
 **1 projecteur, 4 Stereo**
+
 # Éléments nécessaires à la mise en exposition: 
 **Piece spatieuse, cable, mur blanc**
 

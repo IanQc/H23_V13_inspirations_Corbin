@@ -38,20 +38,29 @@ Source: https://www.donatienaubert.com/les-jardins-cybern%c3%a9tiques-(court-m%c
 
 # Faire un croquis de la mise en espace
 **Loeuvre a une piece a elle seul; elle contient 1 stereo dans chaque coin de la piece ainsi qu un projecteur qui projete sur le mur blanc oppose au projecteur**
-*Croquis vue de haut de la piece
+
+![Croquis](Croquis/Croquis.png)
+
+
 
 # Composantes techniques:
 **1 projecteur, 4 Stereo**
-*images ou photo d'internet
+
+![stéréo1](Photos/stéréo1.jpeg)
+
 
 # Éléments nécessaires à la mise en exposition: 
 **Piece spatieuse, cable, mur blanc, projecteur**
 *images ou photos d'internet
+![Cinéma](Photos/Cinéma.jpeg)
 
 # Expérience vécue
 
  **Les visiteur sont attendus a soit s'asseoir dans la salle ou rester debout et regarder la présentation projecter en silence afin de ne pas gacher l'immersion des autres visisteurs. Jaime la facon dont ils ont installe disposer de la présentation. En effet, l'installation de stéréo a chaque coins de la piece nous donne l'impression d'etre dans la vidéo. De plus, la présentation est projecté sur un grand mur blanc ce qui rend le tout encore plus immersive. Bref, sur toutes les oeuvres présentés, celle-ci est facilement ma préféré, par sa disposition et l'immersion hors du commun qu'elle me procure. **
   *vidéo de présentation et images moi devant
+  
+  ![devant_cinema](Photos/devant_cinema.jpeg)
+
  
  # Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications):
 Comme j'ai préciser plus tôt, j'ai adorer immersion hors du commun qu'offre cette oeuvre grâce aux stéréos et la projection grand écran. Cette présentation m'inspire beaucoup a faire le meme style d'immersion chez moi; faire une salle avec un projecteur et stéréo dans chaque coins afin de pouvoir créer des présentations immersives aux confort de ma maison. 

@@ -1,6 +1,7 @@
 # LA 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN)
 *Image Affiche de l'exposition
 
+
 # Lieux
 **Arsenal, 2020 Rue William, Montréal, QC H3J 1R8**
 *Image moi devant l'entrée

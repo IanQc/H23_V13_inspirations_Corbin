@@ -1,10 +1,11 @@
 # LA 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN)
-*Image Affiche de l'exposition
 
+![affiche_de_exposition](Photos/affiche_de_exposition.jpeg)
 
 # Lieux
 **Arsenal, 2020 Rue William, Montréal, QC H3J 1R8**
-*Image moi devant l'entrée
+
+![moi_devant_entre](Photos/moi_devant_entre.jpeg)
 
 # Type dexposition
 **Exposition interieur et temporaire**
@@ -22,7 +23,10 @@
 **2020**
 
 # Description de loeuvre:
-*Image cartel et vue
+
+![cartouche_descriptive](Photos/cartouche_descriptive.jpeg)
+
+
 Le court-métrage montre le rôle qu’a eu l’informatique dans la refonte de l’urbanisme, de l’architecture ou encore dans la mise à l'étude de projets de géoingénierie. Il montre enfin que si les technologies numériques nous permettent de mieux organiser nos habitats grâce à des batteries d’indicateurs climatiques, voire même de répliquer artificiellement des services écologiques rendus par le vivant (grâce à l’ingénierie biomimétique), elles nous contraignent réciproquement à accroître la part qu’elles occupent dans notre capacité à agir sur le monde (selon une trajectoire où celui-ci est soumis à une fonctionnalisation accrue). Le court-métrage dresse le bilan de cette histoire et quelles peuvent être ses perspectives de développement.
 
 Source: https://www.donatienaubert.com/les-jardins-cybern%c3%a9tiques-(court-m%c3%a9trage).html

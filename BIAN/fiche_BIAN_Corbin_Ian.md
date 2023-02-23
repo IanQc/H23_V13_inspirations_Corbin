@@ -53,8 +53,8 @@ Source: https://www.donatienaubert.com/les-jardins-cybern%c3%a9tiques-(court-m%c
 
 
 # Mise en exposition:
-**Piece spacieuse, câble, mur blanc, projecteur**
-*images ou photos d'internet
+**Pour la mise en exposition le musée a seulement besoin d'une pièce spacieuse avec 4 stéréo, 1 projecteur et 1 mur blanc**
+
 ![Cinéma](Photos/Cinéma.jpeg)
 
 # Expérience vécue
@@ -74,6 +74,8 @@ Même si la manière que la présentation était présenté était extraordinair
 # Références
 
 Source: https://www.donatienaubert.com/les-jardins-cybern%c3%a9tiques-(court-m%c3%a9trage).html (site internet auteur)
+
 Source: https://images-na.ssl-images-amazon.com/images/I/71UfWjg8stL._AC_SL1500_.jpg (stéréo)
+
 Source: https://th.bing.com/th/id/OIP.Fwg__VaDr9A5WB3nyDksAAHaC5?pid=ImgDet&rs=1 (projecteur)
 

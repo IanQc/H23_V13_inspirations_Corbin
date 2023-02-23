@@ -16,6 +16,8 @@
 # Nom de l’oeuvre
 **Les Jardins Cybernétiques**
 
+![Cinéma](Photos/Cinéma.jpeg)
+
 # Artiste:
 **Donatien Aubert**
 
@@ -35,9 +37,10 @@ Source: https://www.donatienaubert.com/les-jardins-cybern%c3%a9tiques-(court-m%c
 # Type installation
 **Immersif(stéréo) et Contemplative(projection)**
 
+![Cinéma](Photos/Cinéma.jpeg)
 
 # Faire un croquis de la mise en espace
-**L’œuvre a une pièce a elle seul; elle contient 1 stéréo dans chaque coin de la pièce ainsi qu’un projecteur qui projette sur le mur blanc oppose au projecteur**
+**L’œuvre a une pièce a elle seul; elle contient 1 stéréo dans chaque coin de la pièce ainsi qu’un projecteur qui projette sur le mur blanc opposé au projecteur. De plus il y a plusieurs chaise dans le milleu de la pièce pour ceux qui préfére être assis.**
 
 ![Croquis](Croquis/Croquis.png)
 

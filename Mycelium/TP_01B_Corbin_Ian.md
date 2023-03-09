@@ -1,5 +1,9 @@
 # ECHOMARINE
-**Créer par: Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel**
+Créer par: 
+* Florence Lapierre
+* Natacha Abdallah
+* Tracy Gua et Maria 
+* Laura Coronel
 
 # Entre Fungus
 Créer par: 

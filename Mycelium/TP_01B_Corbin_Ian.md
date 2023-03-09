@@ -5,6 +5,8 @@ Créer par:
 * Tracy Gua et Maria 
 * Laura Coronel
 
+Lien:
+
 # Entre Fungus
 Créer par: 
   * Elwin Durand
@@ -14,12 +16,16 @@ Créer par:
   * Meryem Berbiche
   * Jean-Christophe
 
+Lien:
+
 # LumaSol
 Créer par: 
   * Éloïse Gagné
   * Skayla Stimphil
   * Michaël Simard
   * Pénélope Morrisson
+
+Lien:
 
 # Boucler la boucle
 **Créer par: 
@@ -28,6 +34,10 @@ Créer par:
   * Alexandre Daniel
   * Maxime Des Lauriers
 
+Lien:
+
 # Zodie-Gal
 Créer par: 
   * Abdanor Yara
+
+Lien:

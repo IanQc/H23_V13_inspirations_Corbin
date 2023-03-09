@@ -10,6 +10,8 @@ Lien:
 <h3>Le lien avec le thème Mycelium</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
+<h3>Installation en cours dans les studios</h3>
+
 <h3>Schèma de l'installation</h3>
 
 # Entre Fungus
@@ -26,6 +28,8 @@ Lien:
 <h3>Le lien avec le thème Mycelium</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
+<h3>Installation en cours dans les studios</h3>
+
 <h3>Schèma de l'installation</h3>
 
 # LumaSol
@@ -39,6 +43,8 @@ Lien:
 
 <h3>Le lien avec le thème Mycelium</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
+
+<h3>Installation en cours dans les studios</h3>
 
 <h3>Schèma de l'installation</h3>
 
@@ -54,6 +60,8 @@ Lien:
 <h3>Le lien avec le thème Mycelium</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
+<h3>Installation en cours dans les studios</h3>
+
 <h3>Schèma de l'installation</h3>
 
 # Zodie-Gal
@@ -62,8 +70,9 @@ Créer par:
 
 Lien:
 
-<h3>Schèma de l'installation</h3>
-
-
 <h3>Le lien avec le thème Mycelium</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
+
+<h3>Installation en cours dans les studios</h3>
+
+<h3>Schèma de l'installation</h3>

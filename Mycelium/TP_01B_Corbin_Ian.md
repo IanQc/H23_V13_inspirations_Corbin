@@ -7,6 +7,9 @@ Créer par:
 
 Lien:
 
+<h3>Le lien avec le thème Mycelium</h3>
+lorem ipsum fuiewfhiusegfisoehfiysegfyes
+
 # Entre Fungus
 Créer par: 
   * Elwin Durand
@@ -18,6 +21,9 @@ Créer par:
 
 Lien:
 
+<h3>Le lien avec le thème Mycelium</h3>
+lorem ipsum fuiewfhiusegfisoehfiysegfyes
+
 # LumaSol
 Créer par: 
   * Éloïse Gagné
@@ -26,6 +32,9 @@ Créer par:
   * Pénélope Morrisson
 
 Lien:
+
+<h3>Le lien avec le thème Mycelium</h3>
+lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
 # Boucler la boucle
 **Créer par: 
@@ -36,8 +45,14 @@ Lien:
 
 Lien:
 
+<h3>Le lien avec le thème Mycelium</h3>
+lorem ipsum fuiewfhiusegfisoehfiysegfyes
+
 # Zodie-Gal
 Créer par: 
   * Abdanor Yara
 
 Lien:
+
+<h3>Le lien avec le thème Mycelium</h3>
+lorem ipsum fuiewfhiusegfisoehfiysegfyes

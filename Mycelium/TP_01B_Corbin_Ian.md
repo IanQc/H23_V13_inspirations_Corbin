@@ -10,6 +10,8 @@ Lien:
 <h3>Le lien avec le thème Mycelium</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
+<h3>Schèma de l'installation</h3>
+
 # Entre Fungus
 Créer par: 
   * Elwin Durand
@@ -24,6 +26,8 @@ Lien:
 <h3>Le lien avec le thème Mycelium</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
+<h3>Schèma de l'installation</h3>
+
 # LumaSol
 Créer par: 
   * Éloïse Gagné
@@ -35,6 +39,8 @@ Lien:
 
 <h3>Le lien avec le thème Mycelium</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
+
+<h3>Schèma de l'installation</h3>
 
 # Boucler la boucle
 **Créer par: 
@@ -48,11 +54,16 @@ Lien:
 <h3>Le lien avec le thème Mycelium</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
+<h3>Schèma de l'installation</h3>
+
 # Zodie-Gal
 Créer par: 
   * Abdanor Yara
 
 Lien:
+
+<h3>Schèma de l'installation</h3>
+
 
 <h3>Le lien avec le thème Mycelium</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes

@@ -20,6 +20,11 @@ Description de l'oeuvre:
       Ensuite nous avons écouter une vidéo qui raconte l'histoire de notre système solaire et qu'elles aspect particuliers ils ont.
       Ensuite, nous devions choisir quelle planête du système solaire nous voulions explorer par sonde.
       Par la suite, dépendament de l'option choisir, une courte vidéo descriptive nous décrit les enjeux de cette planète et les dangers d'y envoyer une        sonde.
+      Ensuite, nous devions nous créer une fusée relativement aux enjeux et problématiques qui sont requises pour le voyage. 
+      Nous devions aussi choisir qu'elle sonde serait préférable ainsi que choisir les accessoires approprié pour la mission.
+      Par la suite, une activité interractive se présentais a nous; une table intéractive en plein millieux de la salle et des écrans munis chacun d'un bouton en dessus. Nous devions trouver sur les écrans muraux l'image qui nous est affiché sur la table.
+      Apres c finis.
+      
       
 
 

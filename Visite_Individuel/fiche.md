@@ -25,6 +25,7 @@ Description de l'oeuvre:
       Par la suite, une activité interractive se présentais a nous; une table intéractive en plein millieux de la salle et des écrans munis chacun d'un bouton en dessus. Nous devions trouver sur les écrans muraux l'image qui nous est affiché sur la table.
       Apres c finis.
       
+      Type d'installation: Immersive Interractive
       
 
 

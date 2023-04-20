@@ -64,9 +64,6 @@ lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
 <h3>Schèma de l'installation:</h3>
 
-# Zodie-Gal
-Créer par: 
-  * Abdanor Yara
 
 Lien:
 

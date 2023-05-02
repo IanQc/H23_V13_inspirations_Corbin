@@ -63,3 +63,21 @@ Composants et tehcniques:
       
 Expérience Vécue 
       L'interacteur doit premierement se diriger vers un premier écrant tactile et se créer un nom, choisir un écusson et choisir si il veut travailler en équipe avec quelqu'un d'autre. Ensuite il se dirige vers la premiere salle, ou il doit s'asseoir et écouter le documentaire présenté a l'écran. Par la suite, il doit se présenter a la prochaine salle ou il doit choisir grace un écran tactile, qu'elle planète parmis le systeme solaire il voudrait voyager. Par la suite, il doit se diriger vers une autre salle où encore sur un écran tactile, il vas contruire sa propre fusée ainsi que son équipement. Ensuite, il se dirige dans une autre salle documentaire ou il doit écouter ses prochaines directives ainsi que quelques lecons d'histoires. Enfin, il doit se diriger a la derniere salle ou se trouve un écran tactile géant où chaque voyageur doit accomplir des taches différentes.
+      
+Ce qui m'a plu
+      J'ai adorer l'étape de construire sa fusée en fonction de l'environnement dans laquelle nous allons être projeté, nous devions choisir quelle pièce et équipement prendre ainsi que calculer la trajectoire de lancement. Aussi j'ai aimer la derniere étape où l'on devait accomplir plusieurs tâches dans un certains nombre de temps donner.
+      
+Aspect que je ferais autrement
+      Je trouve que c'était vraiment trop vite et qu'ils auraient du faire un plus grand focus sur les activités interractives plutôt que sur les vidéos presque inutile. En général j'ai été un peu dessus et je m'attendais a beaucoup plus.
+      
+Référence
+
+ Source1: [LeDevoir](https://user-images.githubusercontent.com/106936139/235718921-1fc05fd3-ac3e-43d5-8028-5f2a53a03592.png)
+ <br>
+ Source2: [LeDevoir](https://www.ledevoir.com/societe/science/338495/vers-l-infini-et-plus-loin-encore-le-nouvel-espace-du-cosmodome)
+ <br>
+ Source3: [Portail_Immersion](https://www.google.com/url?sa=i&url=https%3A%2F%2Fportailimmersion.ca%2Fitem%2Faux-frontieres-du-cosmos%2F&psig=AOvVaw1Mo1RCA5Ie2agiWQuzfjFa&ust=1683129654409000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiRi9uA1_4CFQAAAAAdAAAAABAW)
+ <br>
+Source4: [Tourisme_Laval](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourismelaval.com%2Fexplorer-possibilites%2Fattraits%2Fcosmodome&psig=AOvVaw1Mo1RCA5Ie2agiWQuzfjFa&ust=1683129654409000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiRi9uA1_4CFQAAAAAdAAAAABAb)
+<br>
+Source5: [LaPresse](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lapresse.ca%2Fvoyage%2F201112%2F28%2F01-4481425-le-cosmodome-redecolle-en-mode-virtuel.php&psig=AOvVaw1Mo1RCA5Ie2agiWQuzfjFa&ust=1683129654409000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiRi9uA1_4CFQAAAAAdAAAAABAO)

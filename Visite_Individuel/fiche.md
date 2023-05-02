@@ -47,7 +47,7 @@ Source: [Portail_Immersion](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpo
 
 
 Fonction du dispositif multimédia:
-
+<br>
       Cette oeuvre sert a nous informer sur l'espace et sur son histoire. Ils mettent en valeur l'effort aérospatial et nous encouragent a apprendre plus sur le sujet.
       
       

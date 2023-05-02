@@ -53,3 +53,13 @@ Mise en espace:
 ![cinema](Média/cinema.jpg)
 <br>
 Source: [Tourisme_Laval](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourismelaval.com%2Fexplorer-possibilites%2Fattraits%2Fcosmodome&psig=AOvVaw1Mo1RCA5Ie2agiWQuzfjFa&ust=1683129654409000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiRi9uA1_4CFQAAAAAdAAAAABAb)
+
+Composants et tehcniques:
+      Ils ont utilisé plusieurs projecteur pour faire l'effet d'écran large dans la salle d'histoire.
+      Ils ont utilisé plusieur écrant tactile dans les autres salles a usage différent, dépendament des activités
+      
+Élément nécessaires à la mise en exposition
+      Le cosmodome a surment fournis les projecteurs, sièges, salles et branchement.
+      
+Expérience Vécue 
+      L'interacteur doit premierement se diriger vers un premier écrant tactile et se créer un nom, choisir un écusson et choisir si il veut travailler en équipe avec quelqu'un d'autre. Ensuite il se dirige vers la premiere salle, ou il doit s'asseoir et écouter le documentaire présenté a l'écran. Par la suite, il doit se présenter a la prochaine salle ou il doit choisir grace un écran tactile, qu'elle planète parmis le systeme solaire il voudrait voyager. Par la suite, il doit se diriger vers une autre salle où encore sur un écran tactile, il vas contruire sa propre fusée ainsi que son équipement. Ensuite, il se dirige dans une autre salle documentaire ou il doit écouter ses prochaines directives ainsi que quelques lecons d'histoires. Enfin, il doit se diriger a la derniere salle ou se trouve un écran tactile géant où chaque voyageur doit accomplir des taches différentes.

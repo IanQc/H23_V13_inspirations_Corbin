@@ -1,6 +1,6 @@
 Mission Virtuel du cosmos
 <br>
-<img src="https://cosmodome.org/wp-content/uploads/2017/10/outer_limits_cosmo_banner_eng.jpg">
+![Cosmos](Média/cosmos.jpg)
 <br>
 Source: [Cosmodome](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcosmodome.org%2Fen%2Ffamily-activities%2Fvirtual-missions%2F&psig=AOvVaw0vRFJoG-hRLqvv1h4t3bRW&ust=1683128298345000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiVwdT71v4CFQAAAAAdAAAAABAT)
 
@@ -30,8 +30,26 @@ Description de l'oeuvre:
       Nous devions aussi choisir qu'elle sonde serait préférable ainsi que choisir les accessoires approprié pour la mission.
       Par la suite, une activité interractive se présentais a nous; une table intéractive en plein millieux de la salle et des écrans munis chacun d'un bouton en dessus. Nous devions trouver sur les écrans muraux l'image qui nous est affiché sur la table.
       Apres c finis.
+      ![Tunnel](Média/tunnel.jpg)
+      <br>
+      Source1: [LeDevoir](https://user-images.githubusercontent.com/106936139/235718921-1fc05fd3-ac3e-43d5-8028-5f2a53a03592.png)
+      Source2: [LeDevoir](https://www.ledevoir.com/societe/science/338495/vers-l-infini-et-plus-loin-encore-le-nouvel-espace-du-cosmodome)
+      ![mission](Média/mission.jpg)
+      <br>
+       Source1: [LaPresse](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lapresse.ca%2Fvoyage%2F201112%2F28%2F01-4481425-le-cosmodome-redecolle-en-mode-virtuel.php&psig=AOvVaw1Mo1RCA5Ie2agiWQuzfjFa&ust=1683129654409000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiRi9uA1_4CFQAAAAAdAAAAABAO)
       
-      <img src="https://cosmodome.org/wp-content/uploads/2017/10/outer_limits_cosmo_banner_eng.jpg">
   
 Type d'installation: Immersive et Interractive
+![Immersion](Média/immersion.jpg)
+<br>
+Source: [Portail_Immersion](https://www.google.com/url?sa=i&url=https%3A%2F%2Fportailimmersion.ca%2Fitem%2Faux-frontieres-du-cosmos%2F&psig=AOvVaw1Mo1RCA5Ie2agiWQuzfjFa&ust=1683129654409000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiRi9uA1_4CFQAAAAAdAAAAABAW)
 
+Fonction du dispositif multimédia:
+      Cette oeuvre sert a nous informer sur l'espace et sur son histoire. Ils mettent en valeur l'effort aérospatial et nous encouragent a apprendre plus sur le sujet.
+      
+Mise en espace:
+      La disposition de l'oeuvre est présenté sur plusieurs place complétement différentes.
+      Entre-autres, des tunnels(comme au dessus), des salles avec éran interractives qui nous font interragir avec des scénarios(comme au-dessus), ainsi que des écran style cinéma qui nous expliquent l'histoire de l'espace(comme en dessous).
+![cinema](Média/cinema.jpg)
+<br>
+Source: [Tourisme_Laval](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourismelaval.com%2Fexplorer-possibilites%2Fattraits%2Fcosmodome&psig=AOvVaw1Mo1RCA5Ie2agiWQuzfjFa&ust=1683129654409000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiRi9uA1_4CFQAAAAAdAAAAABAb)

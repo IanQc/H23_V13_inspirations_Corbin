@@ -38,7 +38,7 @@ Créer par:
   * Meryem Berbiche
   * Jean-Christophe
 
-Lien:
+Lien: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
 Schéma1:
 
@@ -63,7 +63,7 @@ Créer par:
   * Michaël Simard
   * Pénélope Morrisson
 
-Lien:
+Lien: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
 Schéma1:
 
@@ -88,7 +88,7 @@ lorem ipsum fuiewfhiusegfisoehfiysegfyes
   * Alexandre Daniel
   * Maxime Des Lauriers
 
-Lien:
+Lien: https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 
 Schéma1:
 

@@ -75,4 +75,7 @@ lorem ipsum fuiewfhiusegfisoehfiysegfyes
 <h3>Schèma de l'installation:</h3>
 
 
+# Ma préférence:
+   
+   Même si toutes les oeuvres créers par les éleves étaient incroyables, je doit dire que ma préféré est facilement Échomarine. En effet, j'adore leur concept sous-marin immersif, on a vraiment la sensation d'être au fond de la mer parmis les animaux marins les plus majestueux.
 

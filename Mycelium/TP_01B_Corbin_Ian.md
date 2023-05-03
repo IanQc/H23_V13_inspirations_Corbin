@@ -5,7 +5,9 @@ Créer par:
 * Tracy Gua et Maria 
 * Laura Coronel
 
-Lien:
+Schéma:
+![plan_echo](Media/plan_echo.JPG)
+Lien:https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
 <h3>Le lien avec le thème Mycelium:</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes

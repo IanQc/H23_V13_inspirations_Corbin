@@ -14,7 +14,7 @@ lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
 <h3>Schèma de l'installation:</h3>
 
-# Entre Fungus
+# EDRIA
 Créer par: 
   * Elwin Durand
   * Loic Delorme
@@ -48,7 +48,7 @@ lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
 <h3>Schèma de l'installation:</h3>
 
-# Boucler la boucle
+# Nexum
 **Créer par: 
   * Sébastien Reilly
   * Sabrina Laforest
@@ -73,3 +73,6 @@ lorem ipsum fuiewfhiusegfisoehfiysegfyes
 <h3>Installation en cours dans les studios:</h3>
 
 <h3>Schèma de l'installation:</h3>
+
+
+

@@ -1,25 +1,21 @@
 Introduction :
 
-Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
-
-Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
+Mission virutel du cosmos au cosmosdome.
+Je vais parler de la disposition de l'oeuvre, mon expérerience de l'oeuvre, ses forces et faiblesses ainsi que la présentation de la mission.
 
 
 Développement :
 
-Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition (Titre, Nom de l'artiste ou de la firme, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
+La mission virtuel a lieu au cosmodome a Laval et c'est une disposition permanente et immersive. Malheureusement on a pas d'information concernant le nom de l'artiste ou la firme qui a créer l'oeuvre, ainsi que son année de réalisation. Je suis aller faire la mission le 19 Mars dernier.
 
+L'oeuvre
+Lors de la mission virtuel nous devons se créer un nom, choisir une planète a explorer, créer une fusée dépendament de l'environnement qu'on va explorer, écouter des documentaires de mise en contexte. Par la suite, il suffit seulement de calculer la force et direction du lancement et ensuite  de faire les missions immersives.
+L'installation était bien disposé sur plusieurs salles et couloirs, dépendament des objectifs prévu nous pouvions être assis ou debout. La majorité du temps ont utilisait des écrans tactile ou des écrans géant.
 
-Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
+J'ai eu une très bonne expérience lors de la mission, la création de la fusée et l'exécution de la mission était mes objectifs favoris. L'utilisation des écrans tactiles était facile et immersive, mais je pense qu'ils auraient pu améliorer cerains détails. Par exemple: j'ai trouver que les documentaires était un peu lent répétitif et inutile, je pense qu'il pourrait facilement enlever un des deux documentaires et de le remplacer par d'autres activités immersives pour la mission. 
 
-Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion/fonction, des gestes à poser, etc)
-
-Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
-
-Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session
+Le seul lien possible avec une oeuvre que l'on a vu au cours de la session serait le film au BIAN qui était sur grand-écran, il était dans le même style que les documentaires du Cosmos.
 
 Conclusion :
 
-Rappel des aspects présentés
-
-Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
+Finalement parmis tous ce qu'on vu au cours de la session et tous les moments incroyables vécues, la mission du cosmos est de loin la meilleur expérience que j'ai eu.  

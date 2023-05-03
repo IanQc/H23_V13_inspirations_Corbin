@@ -5,16 +5,29 @@ Créer par:
 * Tracy Gua et Maria 
 * Laura Coronel
 
-Schéma:
-![plan_echo](Media/plan_echo.JPG)
+Schéma1:
+
+![plan_echo](Media/Photos/plan_echo.png)
+
+
+Schéma2:
+
+![branchements](Media/Photos/branchements.jpg)
+
 Lien:https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
 <h3>Le lien avec le thème Mycelium:</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
-<h3>Installation en cours dans les studios:</h3>
+<h3> 3 cours essentiel selon moi::</h3>
+ 
+ Cours d'audio
+ Cours de web/programmation
+ Cours d'animation 2d
 
-<h3>Schèma de l'installation:</h3>
+<h3>Application que je ne connaisais pas: </h3>
+Reaper; c'est l'application d'audio utilisé dans ce projet.
+
 
 # EDRIA
 Créer par: 
@@ -27,12 +40,21 @@ Créer par:
 
 Lien:
 
+Schéma1:
+
+![Edria_plan1](Media/Photos/Edria_plan1.jpg)
+
+
+Schéma2:
+
+![Edria_plan2](Media/Photos/Edria_plan2.jpg)
+
 <h3>Le lien avec le thème Mycelium:</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
 <h3>Installation en cours dans les studios:</h3>
 
-<h3>Schèma de l'installation:</h3>
+
 
 # LumaSol
 Créer par: 
@@ -42,6 +64,15 @@ Créer par:
   * Pénélope Morrisson
 
 Lien:
+
+Schéma1:
+
+![Luma_plan1](Media/Photos/Luma_plan1.png)
+
+
+Schéma2:
+
+![Luma_plan2](Media/Photos/Luma_plan2.png)
 
 <h3>Le lien avec le thème Mycelium:</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes
@@ -58,6 +89,15 @@ lorem ipsum fuiewfhiusegfisoehfiysegfyes
   * Maxime Des Lauriers
 
 Lien:
+
+Schéma1:
+
+![Nexum_plan1](Media/Photos/Nexum_plan1.png)
+
+
+Schéma2:
+
+![Nexum_plan2](Media/Photos/Nexum_plan2.png)
 
 <h3>Le lien avec le thème Mycelium:</h3>
 lorem ipsum fuiewfhiusegfisoehfiysegfyes

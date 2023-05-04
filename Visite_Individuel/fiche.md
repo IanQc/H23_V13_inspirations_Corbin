@@ -53,32 +53,33 @@ Mise en espace:
 Source: [Tourisme_Laval](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourismelaval.com%2Fexplorer-possibilites%2Fattraits%2Fcosmodome&psig=AOvVaw1Mo1RCA5Ie2agiWQuzfjFa&ust=1683129654409000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiRi9uA1_4CFQAAAAAdAAAAABAb)
 
 
-Composants et tehcniques:
+Composants et techniques:
 <br>
-      Ils ont utilisé plusieurs projecteur pour faire l'effet d'écran large dans la salle d'histoire.
-      Ils ont utilisé plusieur écrant tactile dans les autres salles a usage différent, dépendament des activités
+      Ils ont utilisé plusieurs projecteurs pour faire l'effet d'écran large dans la salle d'histoire.
+      Ils ont utilisé plusieurs écrans tactiles dans les autres salles à usage différent, dépendamment des activités
       
       
-Élément nécessaires à la mise en exposition
+Élément nécessaire à la mise en exposition
 <br>
-      Le cosmodome a surment fournis les projecteurs, sièges, salles et branchement.
+      Le cosmodome a surement fourni les projecteurs, sièges, salles et branchement.
       
       
-Expérience Vécue 
+Expérience vécue 
 <br>
-      L'interacteur doit premierement se diriger vers un premier écrant tactile et se créer un nom, choisir un écusson et choisir si il veut travailler en équipe avec quelqu'un d'autre. Ensuite il se dirige vers la premiere salle, ou il doit s'asseoir et écouter le documentaire présenté a l'écran. Par la suite, il doit se présenter a la prochaine salle ou il doit choisir grace un écran tactile, qu'elle planète parmis le systeme solaire il voudrait voyager. Par la suite, il doit se diriger vers une autre salle où encore sur un écran tactile, il vas contruire sa propre fusée ainsi que son équipement. Ensuite, il se dirige dans une autre salle documentaire ou il doit écouter ses prochaines directives ainsi que quelques lecons d'histoires. Enfin, il doit se diriger a la derniere salle ou se trouve un écran tactile géant où chaque voyageur doit accomplir des taches différentes.
+      L'interacteur doit premièrement se diriger vers un premier écran tactile et se créer un nom, choisir un écusson et choisir s’il veut travailler en équipe avec quelqu'un d'autre. Ensuite il se dirige vers la première salle, où il doit s'asseoir et écouter le documentaire présenté à l'écran. Par la suite, il doit se présenter à la prochaine salle ou il doit choisir grâce à un écran tactile, quelle planète parmi le système solaire qu’il voudrait voyager. Par la suite, il doit se diriger vers une autre salle où encore sur un écran tactile, il va construire sa propre fusée ainsi que son équipement. Ensuite, il se dirige dans une autre salle documentaire ou il doit écouter ses prochaines directives ainsi que quelques leçons d'histoire. Enfin, il doit se diriger à la dernière salle où se trouve un écran tactile géant où chaque voyageur doit accomplir des tâches différentes.
       
       
 Ce qui m'a plu
 <br>
-      J'ai adorer l'étape de construire sa fusée en fonction de l'environnement dans laquelle nous allons être projeté, nous devions choisir quelle pièce et équipement prendre ainsi que calculer la trajectoire de lancement. Aussi j'ai aimer la derniere étape où l'on devait accomplir plusieurs tâches dans un certains nombre de temps donner.
+      J'ai adoré l'étape de construire sa fusée en fonction de l'environnement dans laquelle nous allons être projetés, nous devions choisir quelles pièce et équipement prendre ainsi que calculer la trajectoire de lancement. Aussi j'ai aimé la dernière étape où l'on devait accomplir plusieurs tâches dans un certain nombre de temps donner.
       
       
 Aspect que je ferais autrement
 <br>
-      Je trouve que c'était vraiment trop vite et qu'ils auraient du faire un plus grand focus sur les activités interractives plutôt que sur les vidéos presque inutile. En général j'ai été un peu dessus et je m'attendais a beaucoup plus.
+      Je trouve que c'était vraiment trop vite et qu'ils auraient dû faire un plus grand focus sur les activités interactives plutôt que sur les vidéos presque inutiles. En général j'ai été un peu dessus et je m'attendais à beaucoup plus.
       
       
+
 Référence
 
  Source1: [LeDevoir](https://user-images.githubusercontent.com/106936139/235718921-1fc05fd3-ac3e-43d5-8028-5f2a53a03592.png)

@@ -93,22 +93,5 @@ Schéma2:
 
 ![Nexum_plan2](Media/Photos/Nexum_plan2.png)
 
-<h3>Le lien avec le thème Mycelium:</h3>
-lorem ipsum fuiewfhiusegfisoehfiysegfyes
-
-<h3>Installation en cours dans les studios:</h3>
-
-<h3>Schèma de l'installation:</h3>
-
-
-Lien:
-
-<h3>Le lien avec le thème Mycelium:</h3>
-lorem ipsum fuiewfhiusegfisoehfiysegfyes
-
-<h3>Installation en cours dans les studios:</h3>
-
-<h3>Schèma de l'installation:</h3>
-
 
 

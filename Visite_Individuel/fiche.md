@@ -47,8 +47,7 @@ Fonction du dispositif multimédia:
       
 Mise en espace:
 <br>
-      La disposition de l'oeuvre est présenté sur plusieurs place complétement différentes.
-      Entre-autres, des tunnels(comme au dessus), des salles avec éran interractives qui nous font interragir avec des scénarios(comme au-dessus), ainsi que des écran style cinéma qui nous expliquent l'histoire de l'espace(comme en dessous).
+     La disposition de l'œuvre est présentée sur plusieurs places complètement différentes. Entre autres, des tunnels(comme au-dessus), des salles avec écran interactives qui nous font interagir avec des scénarios(comme au-dessus), ainsi que des écrans style cinéma qui nous expliquent l'histoire de l'espace(comme en dessous).
 ![cinema](Média/cinema.jpg)
 <br>
 Source: [Tourisme_Laval](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tourismelaval.com%2Fexplorer-possibilites%2Fattraits%2Fcosmodome&psig=AOvVaw1Mo1RCA5Ie2agiWQuzfjFa&ust=1683129654409000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiRi9uA1_4CFQAAAAAdAAAAABAb)

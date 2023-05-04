@@ -17,13 +17,13 @@ Schéma2:
 Lien:https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
 
-<h3> 3 cours essentiel selon moi:</h3>
+<h3> 3 cours essentiels selon moi:</h3>
  
  Cours d'audio
  Cours de web/programmation
- Cours d'animation 2d
+ Cours d'animation 2D
 
-<h3>Application que je ne connaisais pas: </h3>
+<h3>Application que je ne connaissais pas: </h3>
 Reaper; c'est l'application d'audio utilisé dans ce projet.
 
 
@@ -47,14 +47,14 @@ Schéma2:
 
 ![Edria_plan2](Media/Photos/Edria_plan2.jpg)
 
-<h3> 3 cours essentiel selon moi:</h3>
+<h3> 3 cours essentiels selon moi:</h3>
  
  Cours de conception audio
- Cours de d'installation multimédia
+ Cours d'installation multimédia
  Conception d’une expérience multimédia
 
-<h3>Application que je ne connaisais pas: </h3>
-VCV RACK 2: Créer des sons spécials
+<h3>Application que je ne connaissais pas: </h3>
+VCV RACK 2: Créer des sons spéciaux
 
 
 # LumaSol
@@ -75,14 +75,14 @@ Schéma2:
 
 ![Luma_plan2](Media/Photos/Luma_plan2.png)
 
-<h3> 3 cours essentiel selon moi:</h3>
+<h3> 3 cours essentiels selon moi:</h3>
  
  Cours de Domaines multimédias
- Cours de d'installation multimédia
+ Cours d'installation multimédia
  Conception d’une expérience multimédia
 
-<h3>Application que je ne connaisais pas: </h3>
-Mad Mapper: Pour contoler le son et la lumiere.
+<h3>Application que je ne connaissais pas: </h3>
+Mad Mapper: Pour contrôler le son et la lumière.
 
 
 
@@ -104,12 +104,11 @@ Schéma2:
 
 ![Nexum_plan2](Media/Photos/Nexum_plan2.png)
 
-<h3> 3 cours essentiel selon moi:</h3>
+<h3> 3 cours essentiels selon moi:</h3>
  
  Cours de conception audio
- Cours de d'installation multimédia
+ Cours d'installation multimédia
  Conception d’une expérience multimédia
 
-<h3>Application que je ne connaisais pas: </h3>
- Qlc+: Pour contoler la lumiere.
-
+<h3>Application que je ne connaissais pas: </h3>
+ Qlc+: Pour contrôler la lumière.

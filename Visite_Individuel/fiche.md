@@ -23,14 +23,8 @@ Année de réalisation: Unknown
 
 Description de l'oeuvre:
 <br>
-La mission virtuel commence par l'utilisation d'une tablette interractive, afin de choisir un écusson d'équipe et créer un nom.
-Ensuite, nous devons regardé une vidéo explicative de mise en contexte, afin de bien pouvoir comprendre les étapes/activités a venir.
-Par la suite, il faut écouter une vidéo qui raconte l'histoire de notre système solaire et qu'elles aspect particuliers ils ont.
-Apres la vidéo, il est demandé de choisir quelle planête du système solaire nous voulons explorer par sonde.
-Ensuite, dépendament de l'option choisi, une courte vidéo descriptive nous décrit les enjeux de cette planète et les dangers d'y envoyer une sonde.
-Grâce a la vidéo, nous devons créer une fusée relative aux enjeux et problématiques qui sont requises pour le voyage. 
-Nous devons aussi choisir qu'elle sonde serait préférable ainsi que choisir les accessoires approprié pour la mission.
-Par la suite, une activité interractive se présente a nous; une table intéractive en plein millieux de la salle et des écrans munis chacun d'un bouton en dessus. Enfin, nous devons trouver sur les écrans muraux l'image qui nous est affiché sur la table.
+La mission virtuelle commence par l'utilisation d'une tablette interactive, afin de choisir un écusson d'équipe et créer un nom. Ensuite, nous devons regarder une vidéo explicative de mise en contexte, afin de bien pouvoir comprendre les étapes/activités à venir. Par la suite, il faut écouter une vidéo qui raconte l'histoire de notre système solaire et quels aspects particuliers ils ont. Après la vidéo, il est demandé de choisir quelle planète du système solaire nous voulons explorer par sonde. Ensuite, dépendamment de l'option choisie, une courte vidéo descriptive nous décrit les enjeux de cette planète et les dangers d'y envoyer une sonde. Grâce à la vidéo, nous devons créer une fusée relative aux enjeux et problématiques qui sont requis pour le voyage. Nous devons aussi choisir quelle sonde serait préférable ainsi que choisir les accessoires appropriés pour la mission. Par la suite, une activité interactive se présente à nous; une table interactive en plein milieu de la salle et des écrans munit chacun d'un bouton en dessus. Enfin, nous devons trouver sur les écrans muraux l'image qui nous est affichée sur la table.
+
 ![Tunnel](Média/tunnel.jpg)
 <br>
 Source1: [LeDevoir](https://user-images.githubusercontent.com/106936139/235718921-1fc05fd3-ac3e-43d5-8028-5f2a53a03592.png)

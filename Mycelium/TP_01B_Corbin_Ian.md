@@ -16,8 +16,6 @@ Schéma2:
 
 Lien:https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
-<h3>Le lien avec le thème Mycelium:</h3>
-lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
 <h3> 3 cours essentiel selon moi::</h3>
  
@@ -49,11 +47,8 @@ Schéma2:
 
 ![Edria_plan2](Media/Photos/Edria_plan2.jpg)
 
-<h3>Le lien avec le thème Mycelium:</h3>
-lorem ipsum fuiewfhiusegfisoehfiysegfyes
-
-<h3>Installation en cours dans les studios:</h3>
-
+<h3>Application que je ne connaisais pas: </h3>
+VCV RACK 2: Créer des sons spécials
 
 
 # LumaSol
@@ -74,15 +69,14 @@ Schéma2:
 
 ![Luma_plan2](Media/Photos/Luma_plan2.png)
 
-<h3>Le lien avec le thème Mycelium:</h3>
-lorem ipsum fuiewfhiusegfisoehfiysegfyes
 
-<h3>Installation en cours dans les studios:</h3>
+<h3>Application que je ne connaisais pas: </h3>
+Mad Mapper: Pour contoler le son et la lumiere.
 
 <h3>Schèma de l'installation:</h3>
 
 # Nexum
-**Créer par: 
+Créer par: 
   * Sébastien Reilly
   * Sabrina Laforest
   * Alexandre Daniel

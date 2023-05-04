@@ -1,10 +1,12 @@
 Lors du 30 Mars dernier Yanik Daunais, directeur général et producteur chez Halo création est venu présenté le fonctionnement  de ses créations multimédias et quels enjeux il a du traversé afin de se rendre là ou il c'est rendu. En effet, Yanik nous a raconté son histoire et comment il est venu a faire le travail qu'il fait maintenant aujourdhui. Que sa soit par les appareils électroniques qu'il démontait puis remontait lorsqu'il était enfant que par les oeuvres qu'il fait maintenant aujourdhui, il a toujours été un fan de l'électronique et comme il a dit lui même; il a toujours été un geek.
 
 
-Ses projets s'addresse a un publique de tous ages peu importe leur statut, leur connaissances électronique et même leur intérêt. Il affirme aussi que la plus grande qualité qu'un technicien peut avoir c'est la curiosité. En effet la curiosité, nous permet de comprendre comment certaines choses fonctionnent, apprendre a regler des problemes et surtout d'avoir plus de connaissances générales. Il dit aussi qu'il faut être tres soucieux et qu'il faut toujours prévoir l'imprévu.
+Premierement, ses projets s'addresse a un publique de tous ages peu importe leur statut, leur connaissances électronique et même leur intérêt. Il affirme aussi que la plus grande qualité qu'un technicien peut avoir c'est la curiosité. En effet la curiosité, nous permet de comprendre comment certaines choses fonctionnent, apprendre a regler des problemes et surtout d'avoir plus de connaissances générales. Il dit aussi qu'il faut être tres soucieux et qu'il faut toujours prévoir l'imprévu.<br>
+Deuxiemement, il dit que le plus important pour la réussite d'une oeuvre c'est qu'elle fasse resentir de l'émotion. On peut y arriver par plusieurs moyens différents que ce soit par les sens, l'immersion ou l'accessibilité, il faut toujours penser aux utilsateur et aux clients d'abord. De plus, il a aussi parlé de comment s'organiser en terme de temps, comment faire une bonne trame narative, ce qu'il faut prévoir pour un bon budget et échéancier, ainsi que les qualités requises lors de l'installation et l'intégration. Par exemple: être soucieux et connaitre les réglementations.
 
 
-De plus, il dit que le plus important pour la réussite d'une oeuvre c'est qu'elle fasse resentir de l'émotion. On peut y arriver par plusieurs moyens différents que ce soit par les sens, l'immersion ou l'accessibilité, il faut toujours penser aux utilsateur et aux clients d'abord.
+
 Finalement, sa présentation était tres intéressente et nous présente bien les enjeux présent dans les compagnies informatiques.
+Ils nous indiquent bien comment repérer les publiques cible et comment s'adapter et surmonter n'importe quelle enjeux.
 
 
